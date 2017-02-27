@@ -35,3 +35,4 @@ The goal of this lab is to help you become familiar with `UIGestureRecognizers`.
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/zenGarden' title='zenGarden'>zenGarden</a> on Learn.co and start learning to code for free.</p>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/swift-zenGarden-lab'>Swift Zen Garden Lab</a> on Learn.co and start learning to code for free.</p>
+# alphabetsFacts
