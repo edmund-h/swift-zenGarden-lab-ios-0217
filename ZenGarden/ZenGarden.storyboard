@@ -45,10 +45,10 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
                     <connections>
+                        <outlet property="kingBoyShrub" destination="X4p-IG-ZQk" id="8Nh-4H-VP7"/>
+                        <outlet property="kingBoySword" destination="NV7-km-bi9" id="B27-Th-O6Q"/>
                         <outlet property="rakeManRake" destination="qF5-rV-JRN" id="TgI-Kb-Nyw"/>
                         <outlet property="rockManRock" destination="Bkq-Ex-Mti" id="bnZ-5V-TUO"/>
-                        <outlet property="shrub1" destination="X4p-IG-ZQk" id="wIj-VE-sg5"/>
-                        <outlet property="swordInRock1" destination="NV7-km-bi9" id="GzA-0X-Luo"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="bhV-XY-fqD" userLabel="First Responder" sceneMemberID="firstResponder"/>
